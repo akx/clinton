@@ -1,0 +1,5 @@
+# Expressions for extracting payment amounts
+
+^Payments: (?P<amount>\$[.0-9]+)
+Total in EUR\n\n(?P<amount>€[.0-9]+)
+^(?P<amount>[$€][.0-9]+) paid on

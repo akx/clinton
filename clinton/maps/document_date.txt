@@ -1,0 +1,4 @@
+# Expressions for extracting the document's date.
+
+^Date: (?P<date>[-/0-9]+)$
+\n\n(?P<date>\w+ \d+, \d+)$

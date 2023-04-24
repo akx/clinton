@@ -1,0 +1,7 @@
+# Vendor names and mappings
+
+CircleCI
+Codecov
+DigitalOcean LLC -> DigitalOcean
+Google Workspace -> Google_GSuite
+Slack Technologies Limited -> Slack

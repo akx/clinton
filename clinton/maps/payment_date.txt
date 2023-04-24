@@ -1,0 +1,4 @@
+# Expressions for extracting a payment date
+
+^Balance Paid: (?P<date>[-/0-9]+)
+paid on (?P<date>\w+ \d+[,a-z]{1,2} \d+)$
